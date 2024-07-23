@@ -1,1 +1,1 @@
-git add text3.txt
+this is text3.txt file
